@@ -1,0 +1,25 @@
+{
+  "name": "cypresspractice",
+  "version": "1.0.0",
+  "description": "Covering a few testcases using cypress",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:run:chrome": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admalik100/CypressPractice.git"
+  },
+  "author": "Ahmad Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admalik100/CypressPractice/issues"
+  },
+  "homepage": "https://github.com/admalik100/CypressPractice#readme",
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8"
+  },
+  "devDependencies": {
+    "cypress": "^12.8.1"
+  }
+}

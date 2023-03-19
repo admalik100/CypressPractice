@@ -1,0 +1,12 @@
+{
+  "FName": "Ahmad",
+  "LName": "BV",
+  "Email": "test@test.com",
+  "Gender": "Male",
+  "Mobile": "0123456789",
+  "DoB": "15 January,1990",
+  "Subjects": "Cypress Assignment",
+  "Hobbies": "Reading",
+  "CurrentAddr": "Netherlands",
+  "StateCity": "NCR Delhi"
+}
