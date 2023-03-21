@@ -4,7 +4,7 @@
   "description": "Covering a few testcases using cypress",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:run:chrome": ""
+    "cypress:run:chrome": "cypress run --headless --browser chrome"
   },
   "repository": {
     "type": "git",

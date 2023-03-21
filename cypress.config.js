@@ -19,4 +19,5 @@ module.exports = defineConfig({
     apiPass: process.env.PASSWORD,
     incorrectPass: process.env.INCORRECTPASSWORD,
   },
+  video: false,
 });

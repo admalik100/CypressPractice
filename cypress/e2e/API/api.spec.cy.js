@@ -40,7 +40,9 @@ describe('API Tests', () => {
     });
   });
 
-  it.only('', () => {
+  it('Add a list of books for the created user', () => {
+    // The test case has issues. after creating user and its token
+    // and authorizing the user, the API still times out on request.
     let user = random();
     let apiData;
     let userData;
